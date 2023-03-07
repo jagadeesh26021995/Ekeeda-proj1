@@ -1,0 +1,17 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    text-align: center;
+    background-color: #f8f8f8;
+}
+    
+
+  .Headline{
+    font-size: 40px;
+    
+}
+.quote{
+    font-size: 20px;
+    font-weight: bold;
+}
